@@ -9,7 +9,7 @@
 Данная информация передается с помощью JSON файлов в формате:
 
 
-{
+{{
     "beauty_title": "пер.",
     "title": "Пхия",
     "other_titles": "Триев",
@@ -34,8 +34,8 @@
         
     },
     
-    "images": {data:"<https://i.ytimg.com/vi/iPoRE9VRckM/hqdefault.jpg>", title:"Седловина"}, {data:"<https://fullpicture.ru/wp-content/uploads/2023/09/1623729976_60-pibig_info-p-vulkan-reinir-priroda-krasivo-foto-64-1024x640.jpg>", title:"Подъём"}
-}
+    "images": [{data:"<https://i.ytimg.com/vi/iPoRE9VRckM/hqdefault.jpg>", title:"Седловина"}, {data:"<https://fullpicture.ru/wp-content/uploads/2023/09/1623729976_60-pibig_info-p-vulkan-reinir-priroda-krasivo-foto-64-1024x640.jpg>", title:"Подъём"}]
+}}
 
 
 В проекте реализованные необходимые модели, под требуемые данные. API приложение работает на основе сериализаторов, наследуемых от из коробки
