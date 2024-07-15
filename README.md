@@ -34,7 +34,7 @@
         
     },
     
-    "images": [{data:"<https://i.ytimg.com/vi/iPoRE9VRckM/hqdefault.jpg>", title:"Седловина"}, {data:"<https://fullpicture.ru/wp-content/uploads/2023/09/1623729976_60-pibig_info-p-vulkan-reinir-priroda-krasivo-foto-64-1024x640.jpg>", title:"Подъём"}]
+    "images": [{data:"<i.ytimg.com/vi/iPoRE9VRckM/hqdefault.jpg>", title:"Седловина"}, {data:"<fullpicture.ru/wp-content/uploads/2023/09/1623729976_60-pibig_info-p-vulkan-reinir-priroda-krasivo-foto-64-1024x640.jpg>", title:"Подъём"}]
 }}
 
 
